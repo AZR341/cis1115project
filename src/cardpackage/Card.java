@@ -1,7 +1,7 @@
 package cardpackage;
 
 /**
- * Card shop inventory.
+ * Card shop inventory. Comment 1.
  * @author Jacob Greenawalt
  */
 public class Card {

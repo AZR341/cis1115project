@@ -4,7 +4,7 @@ import java.util.Scanner;
 import utilities.Prompt;
 
 /**
- *
+ * Card class. This class represents a single card.
  * @author 55greenaja09
  */
 public class CardShopMenu {
